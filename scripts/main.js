@@ -1,12 +1,12 @@
 requirejs(["pixi"], function(PIXI) {
     //var exampleSocket = new WebSocket("ws://localhost:3000/");
-//var bol_connection_to_ws = false;
-//exampleSocket.onopen = function (event) {
-//    exampleSocket.send("{'text':'Heres some text that the server is urgently awaiting!'");
-//};
-//exampleSocket.onmessage = function (event) {
-//    console.log(event.data);
-//};
+    //var bol_connection_to_ws = false;
+    //exampleSocket.onopen = function (event) {
+    //    exampleSocket.send("{'text':'Heres some text that the server is urgently awaiting!'");
+    //};
+    //exampleSocket.onmessage = function (event) {
+    //    console.log(event.data);
+    //};
 
 
     var window_width = window.innerWidth
